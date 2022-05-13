@@ -29,9 +29,6 @@ public class student {
 
 	}
 
-	public void register(){
-
-	}
 
 	public void submitInfo(){
 
