@@ -1,7 +1,7 @@
-//adonias adonias commments comments 
 
-/** @author eyuels id--1200790
- * @author EYUEL
+
+/**
+ * @author AKAM
  * @version 1.0
  * @created 12-May-2022 2:11:34 PM
  */
@@ -29,6 +29,9 @@ public class student {
 
 	}
 
+	public void register(){
+
+	}
 
 	public void submitInfo(){
 
